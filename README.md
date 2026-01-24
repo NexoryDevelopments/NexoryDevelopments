@@ -2,7 +2,7 @@ Hi! I’m a solo FiveM developer working under the name Nexory Developments
 .
 I focus on building high-quality, well-structured systems with an emphasis on clean code, performance, and good user experience.
 
-My goal is to continuously improve my skills and create advanced, reliable FiveM resources using modern development practices.
+My goal is to continuously improve my skills and create advanced, reliable FiveM resources using modern development practices and even expanding past solely FiveM development.
 
 ## Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/4RDqPMsxdN) 
