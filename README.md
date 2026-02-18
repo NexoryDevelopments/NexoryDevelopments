@@ -17,4 +17,4 @@ My goal is to continuously improve my skills and create advanced, reliable FiveM
 ![](https://github-readme-stats.vercel.app/api?username=NexoryDevelopments&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=NexoryDevelopments&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NexoryDevelopments&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<img src="https://github-readme-stats-lac-tau-70.vercel.app/api/top-langs/?username=Maximus7474&layout=compact&hide_border=true&theme=dark&langs_count=8&hide=batchfile,shell,javascript,jupyter%20notebook" style="margin-bottom: 2.5em;"/>
+<img src="https://github-readme-stats-lac-tau-70.vercel.app/api/top-langs/?username=NexoryDevelopments&layout=compact&hide_border=true&theme=dark&langs_count=8&hide=batchfile,shell,javascript,jupyter%20notebook" style="margin-bottom: 2.5em;"/>
