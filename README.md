@@ -1,5 +1,5 @@
-Hi! I’m a solo FiveM developer working under the name Nexory Developments
-.
+Hi! I’m a solo FiveM developer working under the name Nexory Developments.
+
 I focus on building high-quality, well-structured systems with an emphasis on clean code, performance, and good user experience.
 
 My goal is to continuously improve my skills and create advanced, reliable FiveM resources using modern development practices and even expanding past solely FiveM development.
