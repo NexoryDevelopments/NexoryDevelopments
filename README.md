@@ -4,6 +4,9 @@ I focus on building high-quality, well-structured systems with an emphasis on cl
 
 My goal is to continuously improve my skills and create advanced, reliable FiveM resources using modern development practices and even expanding past solely FiveM development.
 
+Current project:
+https://rxnroleplay.xyz/ - Swedish roleplay server, focused on quality over quantity
+
 ## Socials:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nexorydevelop@gmail.com)
 # Tech Stack:
