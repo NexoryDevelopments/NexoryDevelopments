@@ -1,11 +1,8 @@
-Hi! I’m a solo FiveM developer working under the name Nexory Developments.
+I’m a self-taught developer from Sweden, and I start a new degree this autumn. Right now I’m building and releasing free programs, some closed source and sometimes open source, with the help of AI, to learn how real software gets designed, tested, shipped and maintained.
 
-I focus on building high-quality, well-structured systems with an emphasis on clean code, performance, and good user experience.
+I’m upfront about using AI. It speeds up the typing, but I still make the decisions: what to build, how it’s structured, how it’s tested, and fixing it when it breaks. I try to understand every line I ship, and I write down what I learned from each project.
 
-My goal is to continuously improve my skills and create advanced, reliable FiveM resources using modern development practices and even expanding past solely FiveM development.
-
-Current project:
-https://rxnroleplay.xyz/ - Swedish roleplay server, focused on quality over quantity
+Next, I want to get stronger on the fundamentals like algorithms, testing and architecture, contribute to other people’s open source projects, and keep my own releases small, documented and maintained.
 
 ## Socials:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nexorydevelop@gmail.com)
